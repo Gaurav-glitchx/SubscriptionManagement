@@ -6,6 +6,7 @@ A full-stack subscription management platform built with **NestJS** (backend) an
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Flow Diagram](#flow-diagram)
@@ -15,8 +16,17 @@ A full-stack subscription management platform built with **NestJS** (backend) an
 - [Frontend (React)](#frontend-react)
 - [API Endpoints](#api-endpoints)
 - [Upgrade & Downgrade Logic](#upgrade--downgrade-logic)
-- [Screenshots](#screenshots)
 - [License](#license)
+
+---
+
+## Screenshots
+
+![Subscription Plan Selection](<img width="512" height="560" alt="Screenshot from 2025-07-15 14-37-02" src="https://github.com/user-attachments/assets/8acb0b71-13c0-4210-ad9a-39f988b29d4a" />
+)
+
+![Card Entry and Subscribe](<img width="512" height="560" alt="Screenshot from 2025-07-15 14-36-46" src="https://github.com/user-attachments/assets/fee4b325-2c7e-4d42-94c1-3e6edf3803e4" />
+)
 
 ---
 
@@ -200,16 +210,6 @@ cd sub-management/frontend
 npm install
 npm start
 ```
-
----
-
-## Screenshots
-
-![Subscription Plan Selection](../Pictures/Screenshots/Screenshot%20from%202025-07-15%2014-36-46.png)
-
-![Card Entry and Subscribe](../Pictures/Screenshots/Screenshot%20from%202025-07-15%2014-37-02.png)
-
----
 
 ## License
 
