@@ -22,11 +22,9 @@ A full-stack subscription management platform built with **NestJS** (backend) an
 
 ## Screenshots
 
-![Subscription Plan Selection](<img width="512" height="560" alt="Screenshot from 2025-07-15 14-37-02" src="https://github.com/user-attachments/assets/8acb0b71-13c0-4210-ad9a-39f988b29d4a" />
-)
+![Subscription Plan Selection](https://github.com/user-attachments/assets/8acb0b71-13c0-4210-ad9a-39f988b29d4a)
 
-![Card Entry and Subscribe](<img width="512" height="560" alt="Screenshot from 2025-07-15 14-36-46" src="https://github.com/user-attachments/assets/fee4b325-2c7e-4d42-94c1-3e6edf3803e4" />
-)
+![Card Entry and Subscribe](https://github.com/user-attachments/assets/fee4b325-2c7e-4d42-94c1-3e6edf3803e4)
 
 ---
 
